@@ -1,5 +1,4 @@
 ﻿using System;
-using Math;
 
 namespace Atv06
 {
@@ -15,7 +14,7 @@ namespace Atv06
             Console.WriteLine("Informe o valor do segundo cateto: ");
             double c2 = double.Parse(Console.ReadLine());
 
-            double somaCateto = Math.Pow(c1) + Math.Pow(c2);
+            double somaCateto = Math.Pow(c1, 2) + Math.Pow(c2, 2);
             double hipotenusa = Math.Sqrt(somaCateto);
 
             Console.WriteLine("A hipotenusa é: {0}", hipotenusa);
