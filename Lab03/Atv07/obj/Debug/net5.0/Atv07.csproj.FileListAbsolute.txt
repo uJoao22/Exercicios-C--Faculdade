@@ -1,0 +1,16 @@
+D:\Desktop\Faculdade\Algoritimos e Tecnicas de Programação\Laboratorio\Lab03\Atv07\bin\Debug\net5.0\Atv07.exe
+D:\Desktop\Faculdade\Algoritimos e Tecnicas de Programação\Laboratorio\Lab03\Atv07\bin\Debug\net5.0\Atv07.deps.json
+D:\Desktop\Faculdade\Algoritimos e Tecnicas de Programação\Laboratorio\Lab03\Atv07\bin\Debug\net5.0\Atv07.runtimeconfig.json
+D:\Desktop\Faculdade\Algoritimos e Tecnicas de Programação\Laboratorio\Lab03\Atv07\bin\Debug\net5.0\Atv07.runtimeconfig.dev.json
+D:\Desktop\Faculdade\Algoritimos e Tecnicas de Programação\Laboratorio\Lab03\Atv07\bin\Debug\net5.0\Atv07.dll
+D:\Desktop\Faculdade\Algoritimos e Tecnicas de Programação\Laboratorio\Lab03\Atv07\bin\Debug\net5.0\ref\Atv07.dll
+D:\Desktop\Faculdade\Algoritimos e Tecnicas de Programação\Laboratorio\Lab03\Atv07\bin\Debug\net5.0\Atv07.pdb
+D:\Desktop\Faculdade\Algoritimos e Tecnicas de Programação\Laboratorio\Lab03\Atv07\obj\Debug\net5.0\Atv07.csproj.AssemblyReference.cache
+D:\Desktop\Faculdade\Algoritimos e Tecnicas de Programação\Laboratorio\Lab03\Atv07\obj\Debug\net5.0\Atv07.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Faculdade\Algoritimos e Tecnicas de Programação\Laboratorio\Lab03\Atv07\obj\Debug\net5.0\Atv07.AssemblyInfoInputs.cache
+D:\Desktop\Faculdade\Algoritimos e Tecnicas de Programação\Laboratorio\Lab03\Atv07\obj\Debug\net5.0\Atv07.AssemblyInfo.cs
+D:\Desktop\Faculdade\Algoritimos e Tecnicas de Programação\Laboratorio\Lab03\Atv07\obj\Debug\net5.0\Atv07.csproj.CoreCompileInputs.cache
+D:\Desktop\Faculdade\Algoritimos e Tecnicas de Programação\Laboratorio\Lab03\Atv07\obj\Debug\net5.0\Atv07.dll
+D:\Desktop\Faculdade\Algoritimos e Tecnicas de Programação\Laboratorio\Lab03\Atv07\obj\Debug\net5.0\ref\Atv07.dll
+D:\Desktop\Faculdade\Algoritimos e Tecnicas de Programação\Laboratorio\Lab03\Atv07\obj\Debug\net5.0\Atv07.pdb
+D:\Desktop\Faculdade\Algoritimos e Tecnicas de Programação\Laboratorio\Lab03\Atv07\obj\Debug\net5.0\Atv07.genruntimeconfig.cache
