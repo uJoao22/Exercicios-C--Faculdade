@@ -10,8 +10,12 @@ namespace Atv08
 
             int soma=0, i=1;
             do {
-                Console.WriteLine("Informe um número inteiro menor que 13");
+                Console.WriteLine("\nInforme um número inteiro menor que 13");
                 int num = int.Parse(Console.ReadLine());
+                if(num >= 13) {
+                    Console.WriteLine("Número inválido");
+                    continue;
+                }
                 soma += num;
                 
                 if(soma<21) {
