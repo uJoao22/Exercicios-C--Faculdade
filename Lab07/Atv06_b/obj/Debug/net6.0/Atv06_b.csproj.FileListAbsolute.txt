@@ -1,0 +1,15 @@
+C:\Users\1382123\Desktop\Laboratorio\Lab07\Atv06_b\bin\Debug\net6.0\Atv06_b.exe
+C:\Users\1382123\Desktop\Laboratorio\Lab07\Atv06_b\bin\Debug\net6.0\Atv06_b.deps.json
+C:\Users\1382123\Desktop\Laboratorio\Lab07\Atv06_b\bin\Debug\net6.0\Atv06_b.runtimeconfig.json
+C:\Users\1382123\Desktop\Laboratorio\Lab07\Atv06_b\bin\Debug\net6.0\Atv06_b.dll
+C:\Users\1382123\Desktop\Laboratorio\Lab07\Atv06_b\bin\Debug\net6.0\Atv06_b.pdb
+C:\Users\1382123\Desktop\Laboratorio\Lab07\Atv06_b\obj\Debug\net6.0\Atv06_b.csproj.AssemblyReference.cache
+C:\Users\1382123\Desktop\Laboratorio\Lab07\Atv06_b\obj\Debug\net6.0\Atv06_b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1382123\Desktop\Laboratorio\Lab07\Atv06_b\obj\Debug\net6.0\Atv06_b.AssemblyInfoInputs.cache
+C:\Users\1382123\Desktop\Laboratorio\Lab07\Atv06_b\obj\Debug\net6.0\Atv06_b.AssemblyInfo.cs
+C:\Users\1382123\Desktop\Laboratorio\Lab07\Atv06_b\obj\Debug\net6.0\Atv06_b.csproj.CoreCompileInputs.cache
+C:\Users\1382123\Desktop\Laboratorio\Lab07\Atv06_b\obj\Debug\net6.0\Atv06_b.dll
+C:\Users\1382123\Desktop\Laboratorio\Lab07\Atv06_b\obj\Debug\net6.0\refint\Atv06_b.dll
+C:\Users\1382123\Desktop\Laboratorio\Lab07\Atv06_b\obj\Debug\net6.0\Atv06_b.pdb
+C:\Users\1382123\Desktop\Laboratorio\Lab07\Atv06_b\obj\Debug\net6.0\Atv06_b.genruntimeconfig.cache
+C:\Users\1382123\Desktop\Laboratorio\Lab07\Atv06_b\obj\Debug\net6.0\ref\Atv06_b.dll
