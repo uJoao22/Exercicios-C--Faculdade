@@ -1,0 +1,15 @@
+C:\Users\1382123\Desktop\Laboratorio\Lab08\Atv05\obj\Debug\net6.0\Atv05.csproj.AssemblyReference.cache
+C:\Users\1382123\Desktop\Laboratorio\Lab08\Atv05\obj\Debug\net6.0\Atv05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1382123\Desktop\Laboratorio\Lab08\Atv05\obj\Debug\net6.0\Atv05.AssemblyInfoInputs.cache
+C:\Users\1382123\Desktop\Laboratorio\Lab08\Atv05\obj\Debug\net6.0\Atv05.AssemblyInfo.cs
+C:\Users\1382123\Desktop\Laboratorio\Lab08\Atv05\obj\Debug\net6.0\Atv05.csproj.CoreCompileInputs.cache
+C:\Users\1382123\Desktop\Laboratorio\Lab08\Atv05\bin\Debug\net6.0\Atv05.exe
+C:\Users\1382123\Desktop\Laboratorio\Lab08\Atv05\bin\Debug\net6.0\Atv05.deps.json
+C:\Users\1382123\Desktop\Laboratorio\Lab08\Atv05\bin\Debug\net6.0\Atv05.runtimeconfig.json
+C:\Users\1382123\Desktop\Laboratorio\Lab08\Atv05\bin\Debug\net6.0\Atv05.dll
+C:\Users\1382123\Desktop\Laboratorio\Lab08\Atv05\bin\Debug\net6.0\Atv05.pdb
+C:\Users\1382123\Desktop\Laboratorio\Lab08\Atv05\obj\Debug\net6.0\Atv05.dll
+C:\Users\1382123\Desktop\Laboratorio\Lab08\Atv05\obj\Debug\net6.0\refint\Atv05.dll
+C:\Users\1382123\Desktop\Laboratorio\Lab08\Atv05\obj\Debug\net6.0\Atv05.pdb
+C:\Users\1382123\Desktop\Laboratorio\Lab08\Atv05\obj\Debug\net6.0\Atv05.genruntimeconfig.cache
+C:\Users\1382123\Desktop\Laboratorio\Lab08\Atv05\obj\Debug\net6.0\ref\Atv05.dll
