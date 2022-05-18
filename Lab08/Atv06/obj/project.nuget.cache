@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KxNph4aTOylfqdtLFYJKMU0TH6BWyRj/FrfrgW7t8ZnCKICTb9oGp1oNuShYPIwRWsTDCzQs5I7imdEkTYLoLw==",
+  "success": true,
+  "projectFilePath": "D:\\Desktop\\Faculdade\\Algoritimos e Tecnicas de Programação\\Laboratorio\\Lab08\\Atv06\\Atv06.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\uJao\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+D:\Desktop\Faculdade\Algoritimos e Tecnicas de Programação\Laboratorio\Lab08\Atv01\bin\Debug\net6.0\Atv01.exe
+D:\Desktop\Faculdade\Algoritimos e Tecnicas de Programação\Laboratorio\Lab08\Atv01\bin\Debug\net6.0\Atv01.deps.json
+D:\Desktop\Faculdade\Algoritimos e Tecnicas de Programação\Laboratorio\Lab08\Atv01\bin\Debug\net6.0\Atv01.runtimeconfig.json
+D:\Desktop\Faculdade\Algoritimos e Tecnicas de Programação\Laboratorio\Lab08\Atv01\bin\Debug\net6.0\Atv01.dll
+D:\Desktop\Faculdade\Algoritimos e Tecnicas de Programação\Laboratorio\Lab08\Atv01\bin\Debug\net6.0\Atv01.pdb
+D:\Desktop\Faculdade\Algoritimos e Tecnicas de Programação\Laboratorio\Lab08\Atv01\obj\Debug\net6.0\Atv01.csproj.AssemblyReference.cache
+D:\Desktop\Faculdade\Algoritimos e Tecnicas de Programação\Laboratorio\Lab08\Atv01\obj\Debug\net6.0\Atv01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Faculdade\Algoritimos e Tecnicas de Programação\Laboratorio\Lab08\Atv01\obj\Debug\net6.0\Atv01.AssemblyInfoInputs.cache
+D:\Desktop\Faculdade\Algoritimos e Tecnicas de Programação\Laboratorio\Lab08\Atv01\obj\Debug\net6.0\Atv01.AssemblyInfo.cs
+D:\Desktop\Faculdade\Algoritimos e Tecnicas de Programação\Laboratorio\Lab08\Atv01\obj\Debug\net6.0\Atv01.csproj.CoreCompileInputs.cache
+D:\Desktop\Faculdade\Algoritimos e Tecnicas de Programação\Laboratorio\Lab08\Atv01\obj\Debug\net6.0\Atv01.dll
+D:\Desktop\Faculdade\Algoritimos e Tecnicas de Programação\Laboratorio\Lab08\Atv01\obj\Debug\net6.0\refint\Atv01.dll
+D:\Desktop\Faculdade\Algoritimos e Tecnicas de Programação\Laboratorio\Lab08\Atv01\obj\Debug\net6.0\Atv01.pdb
+D:\Desktop\Faculdade\Algoritimos e Tecnicas de Programação\Laboratorio\Lab08\Atv01\obj\Debug\net6.0\Atv01.genruntimeconfig.cache
+D:\Desktop\Faculdade\Algoritimos e Tecnicas de Programação\Laboratorio\Lab08\Atv01\obj\Debug\net6.0\ref\Atv01.dll
